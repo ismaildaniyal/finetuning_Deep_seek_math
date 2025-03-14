@@ -53,5 +53,3 @@ elif task == "Creative Math Solver":
                 st.write(emoji_solution)
             else:
                 st.error("No matching emoji math problem found.")
-
-st.sidebar.info("Submit in .ipynb or .py format by March 14, 2025")
